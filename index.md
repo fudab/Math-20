@@ -25,7 +25,7 @@
 
 * #### How Much Does a Hershey Kiss Weight?
 ```python
-def figure_hershey_dist(n, fsize, fs)
+figure_hershey_dist(n, fsize, fs)
 ```
 
 ### Slides 0629
