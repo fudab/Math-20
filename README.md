@@ -6,6 +6,10 @@ Math 20: Probability @ Dartmouth College
 <img src="./images/Math 20.png" alt="" width="600">
 </p>
 
+### Slides
+
+* #### [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1)
+
 ### Homework
 
 * #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1)
