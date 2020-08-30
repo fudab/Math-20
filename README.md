@@ -10,6 +10,8 @@ Math 20: Probability @ Dartmouth College
 
 ### [Link to the homework solution](https://github.com/fudab/math20.io/tree/master/homework/homework_solution)
 
+### [Link to the exams](https://github.com/fudab/math20.io/tree/master/exams)
+
 ### [Link to the Github Pages site of Math 20](https://fudab.github.io/math20) 
 
 ### [Link to the jupyter notebook](https://github.com/fudab/math20.io/tree/master/scripts)
