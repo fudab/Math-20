@@ -21,11 +21,10 @@ Math 20: Probability @ Dartmouth College
   * `Discrete Conditional Probability` :icecream: `Continuous Conditional Probability`
   
 * #### [Homework 5](https://github.com/fudab/math20.io/tree/master/homework/M20_HW5)
-  * ##### Important Distributions
+  * ##### `Important Distributions`
 
 * #### [Homework 6](https://github.com/fudab/math20.io/tree/master/homework/M20_HW6)
-  * ##### Important Densities
-  * ##### Expected Value of Discrete Random Variables
+  * ##### `Important Densities` :icecream: `Expected Value of Discrete Random Variables`
   
 * #### [Homework 7](https://github.com/fudab/math20.io/tree/master/homework/M20_HW7)
   * ##### Variance of Discrete Random Variables
