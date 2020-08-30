@@ -8,6 +8,11 @@ Math 20: Probability @ Dartmouth College
 
 ### Homework
 
+ | 
+------------ | -------------
+#### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1)| * ##### Basic Concepts of Discrete Probability
+Content in the first column | Content in the second column
+
 * #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1)
   * ##### Basic Concepts of Discrete Probability
   
