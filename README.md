@@ -39,7 +39,11 @@ Math 20: Probability @ Dartmouth College
   * ##### Law of Large Numbers
   * ##### Central Limit Theorem
   
+### Exams
 
+* #### [Midterm 1](https://github.com/fudab/math20.io/tree/master/exams/Midterm1)
+* #### [Midterm 2](https://github.com/fudab/math20.io/tree/master/exams/Midterm2)
+* #### [Final](https://github.com/fudab/math20.io/tree/master/exams/Final)
 
 
 ### [Link to the Github Pages site of Math 20](https://fudab.github.io/math20) 
