@@ -12,14 +12,6 @@ Math 20: Probability @ Dartmouth College
   `Basic Concepts of Discrete Probability`
   
 * #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2)
-<table>
-<thead>
-  <tr>
-    <th>Basic Concepts of Discrete Probability</th>
-    <th>Continuous Probability Densities</th>
-  </tr>
-</thead>
-</table>
   `Basic Concepts of Discrete Probability` `Continuous Probability Densities`
   
 * #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3)
