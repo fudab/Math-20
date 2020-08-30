@@ -21,19 +21,16 @@ Math 20: Probability @ Dartmouth College
   * `Discrete Conditional Probability` :icecream: `Continuous Conditional Probability`
   
 * #### [Homework 5](https://github.com/fudab/math20.io/tree/master/homework/M20_HW5)
-  * ##### `Important Distributions`
+  * `Important Distributions`
 
 * #### [Homework 6](https://github.com/fudab/math20.io/tree/master/homework/M20_HW6)
-  * ##### `Important Densities` :icecream: `Expected Value of Discrete Random Variables`
+  * `Important Densities` :icecream: `Expected Value of Discrete Random Variables`
   
 * #### [Homework 7](https://github.com/fudab/math20.io/tree/master/homework/M20_HW7)
-  * ##### Variance of Discrete Random Variables
-  * ##### Expected Value and Variance of Continuous Random Variables
+  * `Variance of Discrete Random Variables` :icecream: `Expected Value and Variance of Continuous Random Variables`
   
 * #### [Homework 8](https://github.com/fudab/math20.io/tree/master/homework/M20_HW8)
-  * ##### Sum of Random Variables
-  * ##### Law of Large Numbers
-  * ##### Central Limit Theorem
+  * `Sum of Random Variables` :icecream: `Law of Large Numbers` :icecream: `Central Limit Theorem`
   
 ### Exams
 
