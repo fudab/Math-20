@@ -6,11 +6,15 @@ Math 20: Probability @ Dartmouth College
 <img src="./images/Math 20.png" alt="" width="600">
 </p>
 
-### [Link to the homework](https://github.com/fudab/math20.io/tree/master/homework)
+### Homework
 
-### [Link to the homework solution](https://github.com/fudab/math20.io/tree/master/homework/homework_solution)
+* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1)
+  * Basic Concepts of Discrete Probability
+  
+* #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2)
+  * Basic Concepts of Discrete Probability
+  * Continuous Probability Densities
 
-### [Link to the exams](https://github.com/fudab/math20.io/tree/master/exams)
 
 ### [Link to the Github Pages site of Math 20](https://fudab.github.io/math20) 
 
