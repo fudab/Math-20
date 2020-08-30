@@ -19,6 +19,13 @@ Math 20: Probability @ Dartmouth College
 * #### [Important Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 * #### [Expected Value of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf)
 * #### [Variance of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+* #### [Expected Value and Variance of Continuous Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+* #### [Sum of Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+* #### [Law of Large Numbers](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf)
+* #### [Central Limit Theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
+* #### [Generating Functions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* #### [Markov Chains](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+
 
 ### Homework
 
