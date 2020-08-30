@@ -9,6 +9,16 @@ Math 20: Probability @ Dartmouth College
 ### Slides
 
 * #### [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf)
+* #### [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* #### [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf)
+* #### [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+* #### [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf)
+* #### [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf)
+* #### [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* #### [Important Distributions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf)
+* #### [Important Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* #### [Expected Value of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf)
+* #### [Variance of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
 
 ### Homework
 
