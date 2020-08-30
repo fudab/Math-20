@@ -15,12 +15,10 @@ Math 20: Probability @ Dartmouth College
   * `Basic Concepts of Discrete Probability` :icecream: `Continuous Probability Densities`
   
 * #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3)
-  * ##### Permutations
-  * ##### Combinations
+  * `Permutations` :icecream: `Combinations`
   
 * #### [Homework 4](https://github.com/fudab/math20.io/tree/master/homework/M20_HW4)
-  * ##### Discrete Conditional Probability
-  * ##### Continuous Conditional Probability
+  * `Discrete Conditional Probability` :icecream: `Continuous Conditional Probability`
   
 * #### [Homework 5](https://github.com/fudab/math20.io/tree/master/homework/M20_HW5)
   * ##### Important Distributions
