@@ -38,7 +38,8 @@ Math 20: Probability @ Dartmouth College
 * #### [Midterm 2](https://github.com/fudab/math20.io/tree/master/exams/Midterm2)
 * #### [Final](https://github.com/fudab/math20.io/tree/master/exams/Final)
 
+### Coding
 
-### [Link to the Github Pages site of Math 20](https://fudab.github.io/math20) 
+* #### [Github Pages site of Math 20](https://fudab.github.io/math20) 
 
-### [Link to the jupyter notebook](https://github.com/fudab/math20.io/tree/master/scripts)
+* #### [jupyter notebook](https://github.com/fudab/math20.io/tree/master/scripts)
