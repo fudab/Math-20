@@ -8,19 +8,19 @@ Math 20: Probability @ Dartmouth College
 ### Slides 
 > #### Click the emoji to download
 
-* Basic Concepts of Discrete Probability [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* Basic Concepts of Discrete Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
-* Permutations [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+* Permutations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
 * Discrete Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
-* Important Distributions [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* Important Distributions [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 
 * Expected Value of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
 
 * Expected Value and Variance of Continuous Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
 
-* Sum of Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+* Sum of Random Variables [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
 
 * Law of Large Numbers [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
