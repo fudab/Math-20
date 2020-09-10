@@ -8,7 +8,7 @@ Math 20: Probability @ Dartmouth College
 ### Slides 
 > #### Click the emoji to download
 
-* #### `Basic Concepts of Discrete Probability` [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Continuous Probability Densities` [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* ##### `Basic Concepts of Discrete Probability` [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Continuous Probability Densities` [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
 * #### Permutations [:peach:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:peach:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
