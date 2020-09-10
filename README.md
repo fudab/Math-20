@@ -8,25 +8,40 @@ Math 20: Probability @ Dartmouth College
 ### Slides 
 > #### Click the emoji to download
 
-* Basic Concepts of Discrete Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* #### Week One
 
-* Permutations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+  * Basic Concepts of Discrete Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
-* Discrete Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+  * Permutations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
-* Important Distributions [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* #### Week Two
 
-* Expected Value of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+  * Discrete Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
-* Expected Value and Variance of Continuous Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+* #### Week Three
 
-* Sum of Random Variables [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+  * Important Distributions [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+
+* #### Week Four
+
+  * Expected Value of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+
+* #### Week Five
+
+  * Expected Value and Variance of Continuous Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+
+
+  * Sum of Random Variables [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+
+* #### Week Six
 
 * Law of Large Numbers [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
-* Generating Functions [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* #### Week Seven
 
-* Markov Chains [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+  * Generating Functions [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+
+  * Markov Chains [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
