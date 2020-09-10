@@ -21,7 +21,7 @@ Math 20: Probability @ Dartmouth College
 
 ### Homework
 
-* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :thought_balloon: :scroll: :thought_balloon: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf) :thought_balloon: :email: :thought_balloon:
+* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :email: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf)  :postbox:
   * `Basic Concepts of Discrete Probability`
   
 * #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :thought_balloon: :scroll: :thought_balloon:
