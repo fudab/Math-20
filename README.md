@@ -6,7 +6,7 @@ Math 20: Probability @ Dartmouth College
 </p>
 
 ### Slides 
-> ##### Click the emoji to download
+> #### Click the emoji to download
 
 * #### Basic Concepts of Discrete Probability [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
@@ -24,9 +24,9 @@ Math 20: Probability @ Dartmouth College
 
 * #### Law of Large Numbers [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem[:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
-* #### Generating Functions[:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* #### Generating Functions [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
 
-* #### Markov Chains[:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+* #### Markov Chains [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
