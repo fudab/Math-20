@@ -7,28 +7,28 @@ Math 20: Probability @ Dartmouth College
 
 ### Slides
 
-* #### [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf)
-* #### [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
-* #### [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf)
-* #### [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
-* #### [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf)
-* #### [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf)
-* #### [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
-* #### [Important Distributions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf)
-* #### [Important Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
-* #### [Expected Value of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf)
-* #### [Variance of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
-* #### [Expected Value and Variance of Continuous Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
-* #### [Sum of Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
-* #### [Law of Large Numbers](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf)
-* #### [Central Limit Theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
-* #### [Generating Functions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
-* #### [Markov Chains](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+* #### :books: [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf)
+* #### :books: [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* #### :books: [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf)
+* #### :books: [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+* #### :books: [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf)
+* #### :books: [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf)
+* #### :books: [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* #### :books: [Important Distributions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf)
+* #### :books: [Important Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* #### :books: [Expected Value of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf)
+* #### :books: [Variance of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+* #### :books: [Expected Value and Variance of Continuous Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+* #### :books: [Sum of Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+* #### :books: [Law of Large Numbers](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf)
+* #### :books: [Central Limit Theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
+* #### :books: [Generating Functions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* #### :books: [Markov Chains](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
 
-* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :thought_balloon: :books: :thought_balloon: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf) :thought_balloon: :100: :thought_balloon:
+* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :thought_balloon: :thought_balloon: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf) :thought_balloon: :100: :thought_balloon:
   * `Basic Concepts of Discrete Probability`
   
 * #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :thought_balloon: :books: :thought_balloon: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :thought_balloon: :100: :thought_balloon:
