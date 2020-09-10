@@ -9,9 +9,7 @@ Math 20: Probability @ Dartmouth College
 
 * #### [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) :thought_balloon: :scroll: :thought_balloon: [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 * #### [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) :thought_balloon: :scroll: :thought_balloon: [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
-* #### :scroll: [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf)
-* #### :scroll: [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf)
-* #### :scroll: [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* #### [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) :thought_balloon: :scroll: :thought_balloon: [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) :thought_balloon: :scroll: :thought_balloon: [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 * #### :scroll: [Important Distributions](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf)
 * #### :scroll: [Important Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 * #### :scroll: [Expected Value of Discrete Random Variables](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf)
