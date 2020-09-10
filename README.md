@@ -31,7 +31,7 @@ Math 20: Probability @ Dartmouth College
   * Expected Value and Variance of Continuous Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
 
 
-  * Sum of Random Variables [:ice_cream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+  * Sum of Random Variables [:fried_egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
 
 * #### Week Six
 
