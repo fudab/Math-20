@@ -21,13 +21,13 @@ Math 20: Probability @ Dartmouth College
 
 ### Homework
 
-* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :thought_balloon: :thought_balloon: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf) :thought_balloon: :100: :thought_balloon:
+* #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :thought_balloon: :scroll: :thought_balloon: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf) :thought_balloon: :email: :thought_balloon:
   * `Basic Concepts of Discrete Probability`
   
-* #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :thought_balloon: :100: :thought_balloon:
+* #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :thought_balloon: :scroll: :thought_balloon:
   * `Basic Concepts of Discrete Probability` :icecream: `Continuous Probability Densities`
   
-* #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 3 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW3_Solution.pdf) :thought_balloon: :100: :thought_balloon:
+* #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 3 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW3_Solution.pdf) :thought_balloon: :postbox: :thought_balloon:
   * `Permutations` :icecream: `Combinations`
   
 * #### [Homework 4](https://github.com/fudab/math20.io/tree/master/homework/M20_HW4.pdf)
