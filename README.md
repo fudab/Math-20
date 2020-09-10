@@ -22,7 +22,7 @@ Math 20: Probability @ Dartmouth College
 
 * ##### `Sum of Random Variables` [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
 
-* ##### `Law of Large Numbers` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C`entral Limit Theorem` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
+* ##### `Law of Large Numbers` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Central Limit Theorem` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
 * ##### `Generating Functions` [:lemon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
 
