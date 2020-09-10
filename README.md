@@ -24,25 +24,25 @@ Math 20: Probability @ Dartmouth College
 * #### [Homework 1](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  :email: [Homework 1 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf)  :postbox:
   * `Basic Concepts of Discrete Probability`
   
-* #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :thought_balloon: :scroll: :thought_balloon:
+* #### [Homework 2](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) :email: [Homework 2 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) :postbox:
   * `Basic Concepts of Discrete Probability` :icecream: `Continuous Probability Densities`
   
-* #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3.pdf) :thought_balloon: :scroll: :thought_balloon: [Homework 3 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW3_Solution.pdf) :thought_balloon: :postbox: :thought_balloon:
+* #### [Homework 3](https://github.com/fudab/math20.io/tree/master/homework/M20_HW3.pdf) :email: [Homework 3 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW3_Solution.pdf) :postbox:
   * `Permutations` :icecream: `Combinations`
   
-* #### [Homework 4](https://github.com/fudab/math20.io/tree/master/homework/M20_HW4.pdf)
+* #### [Homework 4](https://github.com/fudab/math20.io/tree/master/homework/M20_HW4.pdf) :email: [Homework 4 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW4_Solution.pdf) :postbox:
   * `Discrete Conditional Probability` :icecream: `Continuous Conditional Probability`
   
-* #### [Homework 5](https://github.com/fudab/math20.io/tree/master/homework/M20_HW5.pdf)
+* #### [Homework 5](https://github.com/fudab/math20.io/tree/master/homework/M20_HW5.pdf) :email: [Homework 5 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW5_Solution.pdf) :postbox:
   * `Important Distributions`
 
-* #### [Homework 6](https://github.com/fudab/math20.io/tree/master/homework/M20_HW6.pdf)
+* #### [Homework 6](https://github.com/fudab/math20.io/tree/master/homework/M20_HW6.pdf) :email: [Homework 6 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW6_Solution.pdf) :postbox:
   * `Important Densities` :icecream: `Expected Value of Discrete Random Variables`
   
-* #### [Homework 7](https://github.com/fudab/math20.io/tree/master/homework/M20_HW7.pdf)
+* #### [Homework 7](https://github.com/fudab/math20.io/tree/master/homework/M20_HW7.pdf) :email: [Homework 7 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW7_Solution.pdf) :postbox:
   * `Variance of Discrete Random Variables` :icecream: `Expected Value and Variance of Continuous Random Variables`
   
-* #### [Homework 8](https://github.com/fudab/math20.io/tree/master/homework/M20_HW8.pdf)
+* #### [Homework 8](https://github.com/fudab/math20.io/tree/master/homework/M20_HW8.pdf) :email: [Homework 8 Solution](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW8_Solution.pdf) :postbox:
   * `Sum of Random Variables` :icecream: `Law of Large Numbers` :icecream: `Central Limit Theorem`
   
 ### Exams
