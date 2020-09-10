@@ -5,7 +5,8 @@ Math 20: Probability @ Dartmouth College
 <img src="./images/Math 20.png" alt="" width="600">
 </p>
 
-### Slides
+### Slides 
+> #### Click the :mag: to download
 
 * #### Basic Concepts of Discrete Probability [:mag:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) :thought_balloon: :thought_balloon: :thought_balloon: [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 * #### [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) :thought_balloon: :thought_balloon: :thought_balloon: [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
