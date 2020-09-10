@@ -8,25 +8,25 @@ Math 20: Probability @ Dartmouth College
 ### Slides 
 > #### Click the emoji to download
 
-* Basic Concepts of Discrete Probability [:potato:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:potato:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* Basic Concepts of Discrete Probability [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
 * Permutations [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
-* Discrete Conditional Probability [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* Discrete Conditional Probability [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
-* Important Distributions [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* Important Distributions [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 
-* Expected Value of Discrete Random Variables [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+* Expected Value of Discrete Random Variables [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
 
-* Expected Value and Variance of Continuous Random Variables [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+* Expected Value and Variance of Continuous Random Variables [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
 
-* Sum of Random Variables [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+* Sum of Random Variables [:icecream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
 
-* Law of Large Numbers [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
+* Law of Large Numbers [:icecream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem [:icecream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
-* Generating Functions [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* Generating Functions [:icecream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
 
-* Markov Chains [:melon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+* Markov Chains [:icecream:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
