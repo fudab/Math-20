@@ -8,11 +8,11 @@ Math 20: Probability @ Dartmouth College
 ### Slides 
 > #### Click the emoji to download
 
-* Basic Concepts of Discrete Probability [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* Basic Concepts of Discrete Probability [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
 
-* Permutations [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+* Permutations [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:egg:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
-* Discrete Conditional Probability [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:bread:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* Discrete Conditional Probability [:pancake:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:pancake:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
 * Important Distributions [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:pancakes:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 
