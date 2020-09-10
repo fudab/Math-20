@@ -14,19 +14,19 @@ Math 20: Probability @ Dartmouth College
 
 * ##### `Discrete Conditional Probability` [:kiwi_fruit:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Bayes' theorem` [:kiwi_fruit:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Continuous Conditional Probability` [:kiwi_fruit:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
-* #### Important Distributions [:watermelon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:watermelon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
+* ##### `Important Distributions` [:watermelon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Important Densities` [:watermelon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 
-* #### Expected Value of Discrete Random Variables [:pear:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Variance of Discrete Random Variables [:pear:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
+* ##### `Expected Value of Discrete Random Variables` [:pear:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec8.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Variance of Discrete Random Variables` [:pear:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec9.pdf)
 
-* #### Expected Value and Variance of Continuous Random Variables [:coconut:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
+* ##### `Expected Value and Variance of Continuous Random Variables` [:banana:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec10.pdf)
 
-* #### Sum of Random Variables [:banana:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
+* ##### `Sum of Random Variables` [:banana:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec11.pdf)
 
-* #### Law of Large Numbers [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Central Limit Theorem[:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
+* ##### `Law of Large Numbers` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C`entral Limit Theorem` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
-* #### Generating Functions [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* ##### `Generating Functions` [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
 
-* #### Markov Chains [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+* ##### `Markov Chains` [:mango:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
