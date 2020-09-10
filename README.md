@@ -24,9 +24,9 @@ Math 20: Probability @ Dartmouth College
 
 * ##### `Law of Large Numbers` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C`entral Limit Theorem` [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec12B.pdf)
 
-* ##### `Generating Functions` [:banana:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
+* ##### `Generating Functions` [:lemon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec13.pdf)
 
-* ##### `Markov Chains` [:banana:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
+* ##### `Markov Chains` [:lemon:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec14.pdf)
 
 
 ### Homework
