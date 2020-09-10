@@ -48,7 +48,7 @@ Math 20: Probability @ Dartmouth College
 > #### Click the emoji to download
 
 * #### Homework 1 [:envelope:](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; Homework 1 Solution [:incoming_envelope:](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf)  
-  * ##### Basic Concepts of Discrete Probability
+  *  Basic Concepts of Discrete Probability
   
 * #### Homework 2 [:envelope:](https://github.com/fudab/math20.io/tree/master/homework/M20_HW2.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Homework 2 Solution [:incoming_envelope:](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW2_Solution.pdf) 
   * ##### Basic Concepts of Discrete Probability &nbsp; &nbsp; &nbsp; &nbsp; Continuous Probability Densities
