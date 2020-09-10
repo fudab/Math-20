@@ -7,8 +7,8 @@ Math 20: Probability @ Dartmouth College
 
 ### Slides
 
-* #### :thought_balloon: :scroll: :thought_balloon: [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) :thought_balloon: :scroll: :thought_balloon: [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
-* #### :thought_balloon: :scroll: :thought_balloon: [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) :thought_balloon: :scroll: :thought_balloon: [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
+* #### [Basic Concepts of Discrete Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec1.pdf) :thought_balloon: :scroll: :thought_balloon: [Continuous Probability Densities](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec2.pdf)
+* #### [Permutations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) :thought_balloon: :scroll: :thought_balloon: [Combinations](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 * #### :scroll: [Discrete Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf)
 * #### :scroll: [Bayes' theorem](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf)
 * #### :scroll: [Continuous Conditional Probability](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
