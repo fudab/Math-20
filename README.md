@@ -12,7 +12,7 @@ Math 20: Probability @ Dartmouth College
 
 * Permutations [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec3.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Combinations [:corn:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec4.pdf)
 
-* Discrete Conditional Probability [:potato:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:potato:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:potato:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
+* Discrete Conditional Probability [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Bayes' theorem [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec5B.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Continuous Conditional Probability [:eggplant:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec6.pdf)
 
 * Important Distributions [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7A.pdf) &nbsp; &nbsp; &nbsp; &nbsp; Important Densities [:strawberry:](https://github.com/fudab/math20.io/tree/master/slides/M20_Lec7B.pdf)
 
