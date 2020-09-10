@@ -73,9 +73,11 @@ Math 20: Probability @ Dartmouth College
   
 ### Exams
 
-* #### [Midterm 1](https://github.com/fudab/math20.io/tree/master/exams/Midterm1.pdf)
-* #### [Midterm 2](https://github.com/fudab/math20.io/tree/master/exams/Midterm2.pdf)
-* #### [Final](https://github.com/fudab/math20.io/tree/master/exams/Final.pdf)
+> #### Click the emoji to download
+
+* #### Midterm 1 [:package:](https://github.com/fudab/math20.io/tree/master/exams/Midterm1.pdf)
+* #### Midterm 2 [:package:](https://github.com/fudab/math20.io/tree/master/exams/Midterm2.pdf)
+* #### Final [:package:](https://github.com/fudab/math20.io/tree/master/exams/Final.pdf)
 
 ### Coding
 
