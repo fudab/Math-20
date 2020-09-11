@@ -6,7 +6,7 @@ Math 20: Probability @ Dartmouth College
 </p>
 
 ### Slides 
-> #### Click the emoji to download
+> #### Click &nbsp; :pancakes: &nbsp; :fried_egg: &nbsp; :ice_cream: &nbsp; to download
 
 * #### Week One
 
@@ -45,7 +45,7 @@ Math 20: Probability @ Dartmouth College
 
 
 ### Homework
-> #### Click the emoji to download
+> #### Click &nbsp; :envelope: &nbsp; :incoming_envelope: &nbsp; to download
 
 * #### Homework 1 [:envelope:](https://github.com/fudab/math20.io/tree/master/homework/M20_HW1.pdf)  &nbsp; &nbsp; &nbsp; &nbsp; Homework 1 Solution [:incoming_envelope:](https://github.com/fudab/math20.io/tree/master/homework/solution/M20_HW1_Solution.pdf)  
   * Basic Concepts of Discrete Probability
@@ -73,7 +73,7 @@ Math 20: Probability @ Dartmouth College
   
 ### Exams
 
-> #### Click the emoji to download
+> #### Click &nbsp; :package: &nbsp; to download
 
 * #### Midterm 1 [:package:](https://github.com/fudab/math20.io/tree/master/exams/Midterm1.pdf)
 * #### Midterm 2 [:package:](https://github.com/fudab/math20.io/tree/master/exams/Midterm2.pdf)
